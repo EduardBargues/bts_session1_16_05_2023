@@ -40,7 +40,7 @@ Find me in [LinkedIn](https://www.linkedin.com/in/eduardbargues/).
 - What is your story?
 - [Expectations from C&D?](https://admin.typeform.com/form/OexDBWj8/results#responses)
 
-![bg right w:80%](images/students.png)
+![bg right:37% h:86%](images/students.png)
 
 ---
 
@@ -70,7 +70,7 @@ C&D in the context of _Digital Product Management_.
 4. Cost management
 5. Introduction to Devops: CICD
 6. Advanced Devops
-7. Project presentations & speaker
+7. Presentations & Guest
 
 ---
 
@@ -171,6 +171,36 @@ How does it [work](https://youtu.be/gAkwW2tuIqE)?
 
 ---
 
+# **⚠️ Use it with caution**
+
+> With great power, comes [great responsibility](https://youtu.be/N6lYcXjd4pg).
+
+Companies look to [reduce costs](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/more-for-less-five-ways-to-lower-cloud-costs-without-destroying-value) or even [leave the Cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0) because of [high spending](https://dev.37signals.com/our-cloud-spend-in-2022/).
+
+![bg right:23% w:100%](images/DavidHeinemeierHansson.png)
+
+---
+
+# **Create an AWS account**
+
+- [Sign In/Up AWS](https://aws.amazon.com/)
+- Enable [Multi Factor Authentication](https://aws.amazon.com/what-is/mfa/)
+- Explore [free products in AWS](https://aws.amazon.com/free)
+
+---
+
+# **AWS console**
+
+- **Compute**:Lambda, ECS, EC2.
+- **Storage**:S3.
+- **Database**:RDS, DynamoDB.
+- **Networking**:API Gateway, VPC.
+- **Management**:CloudWatch, IAM.
+
+![bg right:35% w:100%](images/aws_architecture.png)
+
+---
+
 # **Types of ☁️**
 
 **Infrastructure**
@@ -193,36 +223,6 @@ vs
 > [You put the limits](https://youtu.be/JIbIYCM48to)
 
 ![bg right:44% w:75%](https://media4.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif?cid=ecf05e478tkbpeluqx837oznhyqia2dw9bedzyh42x0g12jf&rid=giphy.gif&ct=g)
-
----
-
-# **AWS console**
-
-- **Compute**:Lambda, ECS, EC2.
-- **Storage**:S3.
-- **Database**:RDS, DynamoDB.
-- **Networking**:API Gateway, VPC.
-- **Management**:CloudWatch, IAM.
-
-![bg right:35% w:100%](images/aws_architecture.png)
-
----
-
-# **⚠️ Use it with caution**
-
-> With great power, comes [great responsibility](https://youtu.be/N6lYcXjd4pg).
-
-Companies look to [reduce costs](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/more-for-less-five-ways-to-lower-cloud-costs-without-destroying-value) or even [leave the Cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0) because of [high spending](https://dev.37signals.com/our-cloud-spend-in-2022/).
-
-![bg right:23% w:100%](images/DavidHeinemeierHansson.png)
-
----
-
-# **Create our AWS account**
-
-- [Sign In/Up AWS](https://aws.amazon.com/)
-- Enable [Multi Factor Authentication](https://aws.amazon.com/what-is/mfa/)
-- Explore [free products in AWS](https://aws.amazon.com/free)
 
 ---
 
