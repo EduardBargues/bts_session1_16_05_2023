@@ -23,11 +23,11 @@ by Eduard Bargués
 
 # **Hi!👋**
 
-Principal Engineer at [Ohpen.com](Ohpen.com).
+Principal Engineer at [Ohpen.com](https://Ohpen.com).
 
-Volunteer at [Migracode](migracode.openculturalcenter.org).
+Volunteer at [Migracode](https://migracode.openculturalcenter.org).
 
-Professor at [BTS](barcelonatechnologyschool.com).
+Professor at [BTS](https://barcelonatechnologyschool.com).
 
 Find me in [LinkedIn](https://www.linkedin.com/in/eduardbargues/).
 
